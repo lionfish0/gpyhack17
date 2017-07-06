@@ -50,3 +50,17 @@ A lot of the trouble during development has been understanding the paramz model 
  - a list of features or issues that need to be focused on (maybe with who is doing what) - what is needed in GPy?
 - how to support related projects
  - future meetings planned?
+
+### Other notes
+
+We probably need to come up with frequenctly asked questions to assist with improving documentation and code?
+
+Other ideas for the day:
+
+- Help people currently using GPy (i.e. not just an introduction) to contribute - e.g. people have specific problems that either require better documentation or assistance in knowing how to make changes to GPy.
+- Although Alan points out new people also struggle (eg with..."(where can I get a list of all the kernels, how do I get the documentation for plotting, etc), and I think a few more introduction to GPs with GPy would be useful. A couple of questions about model comparison. I think a lot of these guys would take a quick look at GPy, get confused about some of the magic, then perhaps give up. I think we could certainly do some things to make it more approachable to newbies.")
+- Write new documentation maybe covering these issues (e.g. how to write a new kernel, etc, etc)
+- I don't know what was talked about in Berlin, but maybe a continuation of that - what needs working on next?
+- What's the future of GPy (wrt GPFlow?)
+- Do we want to spend some of the time actually working on these issues? (or maybe draft out parts for later implementation, e.g. docs to write, etc)
+
